@@ -122,7 +122,7 @@ You may need to add additional files in the `lib` folder for handling user input
 
 ## GitHub link to the Logo Generator Application.
 
-[The Logo Generator Application](https://github.com/JohnDavidSmith/Professional-README-Generator-NodeJS-Mod9)
+[The Logo Generator Application](https://github.com/JohnDavidSmith/Logo-Generator-NodeJS-Mod10)
 
 ## Video link to demonstrate how this application working and how the final product will be look like 
 
